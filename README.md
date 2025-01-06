@@ -1,6 +1,9 @@
 # Customer Sentiment Analysis Dashboard
 This project provides a comprehensive analysis of customer sentiment using the Amazon Musical Instruments Reviews Dataset. It includes end-to-end data processing, exploratory data analysis (EDA), advanced sentiment analysis, topic modeling, time-series analysis, and plans for visualization using Tableau.
 
+## Project Files
+- [Customer Sentiment Analysis Presentation](docs/Customer_Sentiment_Analysis_Presentation.pptx)
+
 ## Project Overview
 The goal of this project is to extract meaningful insights from customer reviews, focusing on:
 
